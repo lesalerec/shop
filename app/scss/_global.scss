@@ -1,0 +1,14 @@
+body{
+  @extend %gotham-400;
+  font-size: 15px;
+  line-height: 25px;
+  font-style: normal;
+  color: $default;
+}
+
+.container{
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
